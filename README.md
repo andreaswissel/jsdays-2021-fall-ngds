@@ -1,6 +1,6 @@
 # Robuste Design Systems mit Storybook und Angular: vom Konzept zur lebendigen Anwendung
 
-[Angular Days Workshop](https://javascript-days.de/angular/robuste-design-systems-mit-storybook-und-angular-vom-konzept-zur-lebendigen-anwendung/), Thursday October 7 2021
+[Angular Days Workshop](https://javascript-days.de/angular/robuste-design-systems-mit-storybook-und-angular-vom-konzept-zur-lebendigen-anwendung/), Thursday October 7, 2021
 
 Your trainer: [Andreas Wissel](https://twitter.com/andreas_wissel), Freelance Consultant
 
@@ -20,7 +20,7 @@ Please bring your developer devices and install the following software. [Already
 
 #### Browsers (Desktop)
 
-- [Microsoft Edge](https://www.microsoft.com/en-us/edge), or any Chromium equivalent @ version 93 or later
+- [Microsoft Edge](https://www.microsoft.com/en-us/edge), or any Chromium equivalent @ version 89 or later
 
 #### Developer Tools
 
@@ -34,7 +34,7 @@ Please bring your developer devices and install the following software. [Already
 #### Designer Tools
 
 - Create a free account at [Figma](https://figma.com)
-- Create a free account at [Chromatic](https://www.chromatic.com/)
+- Create a free account at [Chromatic](https://chromatic.com)
 
 ### Step 2: Demo Repository
 
