@@ -15,9 +15,13 @@ export class InputComponent implements OnInit {
   ngOnInit(): void {
   }
 
-  @ViewChild('input', { static: false }) input: ElementRef<HTMLInputElement>;
+  @ViewChild('input', { static: false }) input: ElementRef<HTMLInputElement> | undefined;
 
   get text(): string {
-    return this.input.nativeElement.value;
+    if(this.input) {
+      return this.input.nativeElement.value;
+    }  
+
+    return "";
   }
 }

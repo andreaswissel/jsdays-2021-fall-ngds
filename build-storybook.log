@@ -1,0 +1,595 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.15
+
+TypeScript version used by Compodoc : 4.4.2
+
+TypeScript version of current project : 4.3.5
+
+Node.js version : v14.17.6
+
+Operating system : macOS Big Sur
+
+[12:26:52] No configuration file found, switching to CLI flags.
+[12:26:52] Using tsconfig file : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/tsconfig.json
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.DS_Store
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.browserslistrc
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/README.md
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.gitignore
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.editorconfig
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/build-storybook.log
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/angular.json
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/karma.conf.js
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/documentation.json
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/package-lock.json
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/package.json
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/tsconfig.json
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/tsconfig.spec.json
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/tsconfig.app.json
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.storybook/main.js
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.storybook/preview.js
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.storybook/tsconfig.json
+[12:26:52] Ignoring       : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.storybook/typings.d.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/favicon.ico
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/index.html
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/main.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/polyfills.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/styles.scss
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/test.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/environments/environment.prod.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/environments/environment.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/app.component.html
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/app.component.scss
+[12:26:52] Ignoring       : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/app.component.spec.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/app.module.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/app.component.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/assets/.gitkeep
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/Button.stories.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/Page.stories.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/button.component.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/Header.stories.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/header.component.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/button.css
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/Introduction.stories.mdx
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/page.component.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/page.css
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/header.css
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/form-group/form-group.component.html
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/form-group/form-group.component.scss
+[12:26:52] Ignoring       : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/form-group/form-group.component.spec.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/input/input.component.html
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/form-group/form-group.module.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/form-group/form-group.component.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/input/input.component.scss
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/form-group/form-group.stories.ts
+[12:26:52] Ignoring       : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/input/input.component.spec.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/input/input.module.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/input/input.component.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/input/input.stories.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/button/button.component.html
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/button/button.component.scss
+[12:26:52] Ignoring       : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/button/button.component.spec.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/button/button.component.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/button/button.module.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/button/button.stories.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.component.html
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.component.scss
+[12:26:52] Ignoring       : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.component.spec.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.component.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.module.ts
+[12:26:52] Ignoring       : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.service.spec.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.service.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.stories.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/assets/code-brackets.svg
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/assets/colors.svg
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/assets/direction.svg
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/assets/comments.svg
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/assets/repo.svg
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/assets/stackalt.svg
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/assets/flow.svg
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/assets/plugin.svg
+[12:26:52] Ignoring       : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/mocks/mock-login.service.spec.ts
+[12:26:52] Including      : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/mocks/mock-login.service.ts
+[12:26:52] Searching package.json file
+[12:26:52] package.json file found
+[12:26:52] Processing package.json dependencies
+[12:26:52] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[12:26:52] README.md file found
+[12:26:52] Error during /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/CHANGELOG read
+[12:26:52] Continuing without CHANGELOG.md file
+[12:26:52] Error during /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/CONTRIBUTING read
+[12:26:52] Continuing without CONTRIBUTING.md file
+[12:26:52] Error during /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/LICENSE read
+[12:26:52] Continuing without LICENSE.md file
+[12:26:52] Error during /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/TODO read
+[12:26:52] Continuing without TODO.md file
+[12:26:52] Get dependencies data
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/main.ts
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/polyfills.ts
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/test.ts
+[12:26:52] found          : require
+[12:26:52] found          : context
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/environments/environment.prod.ts
+[12:26:52] found          : environment
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/environments/environment.ts
+[12:26:52] found          : environment
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/app.module.ts
+[12:26:52] found          : AppModule
+[12:26:52]                : - imports:
+[12:26:52]                : 	- BrowserModule
+[12:26:52]                : - declarations:
+[12:26:52]                : 	- AppComponent
+[12:26:52]                : - bootstrap:
+[12:26:52]                : 	- AppComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/app.component.ts
+[12:26:52] found          : AppComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/Button.stories.ts
+[12:26:52] found          : Template
+[12:26:52] found          : Primary
+[12:26:52] found          : Secondary
+[12:26:52] found          : Large
+[12:26:52] found          : Small
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/Page.stories.ts
+[12:26:52] found          : Template
+[12:26:52] found          : LoggedIn
+[12:26:52] found          : LoggedOut
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/button.component.ts
+[12:26:52] found          : ButtonComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/Header.stories.ts
+[12:26:52] found          : Template
+[12:26:52] found          : LoggedIn
+[12:26:52] found          : LoggedOut
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/header.component.ts
+[12:26:52] found          : HeaderComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/stories/page.component.ts
+[12:26:52] found          : PageComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/form-group/form-group.module.ts
+[12:26:52] found          : FormGroupModule
+[12:26:52]                : - imports:
+[12:26:52]                : 	- CommonModule
+[12:26:52]                : - exports:
+[12:26:52]                : 	- FormGroupComponent
+[12:26:52]                : - declarations:
+[12:26:52]                : 	- FormGroupComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/form-group/form-group.component.ts
+[12:26:52] found          : FormGroupComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/form-group/form-group.stories.ts
+[12:26:52] found          : Template
+[12:26:52] found          : Default
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/input/input.module.ts
+[12:26:52] found          : InputModule
+[12:26:52]                : - imports:
+[12:26:52]                : 	- CommonModule
+[12:26:52]                : - exports:
+[12:26:52]                : 	- InputComponent
+[12:26:52]                : - declarations:
+[12:26:52]                : 	- InputComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/input/input.component.ts
+[12:26:52] found          : InputComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/input/input.stories.ts
+[12:26:52] found          : Template
+[12:26:52] found          : DefaultInput
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/button/button.component.ts
+[12:26:52] found          : ButtonComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/button/button.module.ts
+[12:26:52] found          : ButtonModule
+[12:26:52]                : - imports:
+[12:26:52]                : 	- CommonModule
+[12:26:52]                : - declarations:
+[12:26:52]                : 	- ButtonComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/button/button.stories.ts
+[12:26:52] found          : Template
+[12:26:52] found          : Default
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.component.ts
+[12:26:52] found          : LoginComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.module.ts
+[12:26:52] found          : LoginModule
+[12:26:52]                : - imports:
+[12:26:52]                : 	- CommonModule
+[12:26:52]                : - declarations:
+[12:26:52]                : 	- LoginComponent
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.service.ts
+[12:26:52] found          : LoginService
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/login.stories.ts
+[12:26:52] found          : Default
+[12:26:52] parsing        : /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/src/app/login/mocks/mock-login.service.ts
+[12:26:52] found          : MockLoginService
+[12:26:52] -------------------
+[12:26:52] Project statistics 
+[12:26:52] - files      : 70
+[12:26:52] - module     : 5
+[12:26:52] - component  : 8
+[12:26:52] - injectable : 2
+[12:26:52] -------------------
+[12:26:52] Prepare components
+[12:26:52]  AppComponent has a templateUrl, include it
+[12:26:52]  AppComponent has styleUrls, include them
+[12:26:52]  ButtonComponent has styleUrls, include them
+[12:26:52]  ButtonComponent has a templateUrl, include it
+[12:26:52]  ButtonComponent has styleUrls, include them
+[12:26:52]  FormGroupComponent has a templateUrl, include it
+[12:26:52]  FormGroupComponent has styleUrls, include them
+[12:26:52]  HeaderComponent has styleUrls, include them
+[12:26:52]  InputComponent has a templateUrl, include it
+[12:26:52]  InputComponent has styleUrls, include them
+[12:26:52]  LoginComponent has a templateUrl, include it
+[12:26:52]  LoginComponent has styleUrls, include them
+[12:26:52]  PageComponent has styleUrls, include them
+[12:26:52] Prepare modules
+[12:26:52] Prepare injectables
+[12:26:52] Prepare miscellaneous
+[12:26:52] Process documentation coverage report
+[12:26:52] Generating documentation in export format json
+[12:26:52] Documentation generated in ./ in 0.256 seconds
+info @storybook/angular v6.3.9
+info 
+info => Cleaning outputDir: /var/folders/3g/p5s737zs0ysc05j0d9pt88nh0000gn/T/chromatic--20816-PkGDTs1xYy91
+info => Loading presets
+info => Compiling preview..
+info => Loading 1 config file in "/Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.storybook"
+info => Loading 9 other files in "/Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.storybook"
+info => Adding stories defined in "/Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/.storybook/main.js"
+info => Found custom tsconfig.json
+info => Using implicit CSS loaders
+info => Loading angular-cli config
+info => Using angular project "design-systems:build" for configuring Storybook
+info => Using angular-cli webpack config
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup initialize
+<s> [webpack.Progress] 1% setup initialize HtmlWebpackPlugin
+<s> [webpack.Progress] 1% setup initialize
+<s> [webpack.Progress] 2% setup before run
+<s> [webpack.Progress] 2% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 2% setup before run
+<s> [webpack.Progress] 3% setup run
+<s> [webpack.Progress] 3% setup run fork-ts-checker-webpack-plugin
+<s> [webpack.Progress] 3% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory ContextReplacementPlugin
+<s> [webpack.Progress] 5% setup context module factory ContextReplacementPlugin
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile fork-ts-checker-webpack-plugin
+Starting type checking service...
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation CopyPlugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/15 entries 3/15 dependencies 0/3 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/style-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/resolve-url-loader/index.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/sass-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/15 entries 11/15 dependencies 0/11 modules
+<s> [webpack.Progress] 13% building 1/15 entries 167/236 dependencies 15/94 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/@mdx-js/loader/index.js
+<s> [webpack.Progress] 13% building 1/15 entries 179/243 dependencies 16/106 modules
+<s> [webpack.Progress] 13% building import loader ./node_modules/ts-loader/index.js
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/angular/dist/ts3.9/server/ngx-template-loader/index.js
+<s> [webpack.Progress] 13% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 13% building 1/15 entries 179/243 dependencies 16/106 modules
+<s> [webpack.Progress] 13% building 1/15 entries 396/500 dependencies 17/212 modules
+[BABEL] Note: The code generator has deoptimised the styling of /Users/andreaswissel/dev/speaking/jsdays-2021-fall-ngds/node_modules/prettier/standalone.js as it exceeds the max of 500KB.
+<s> [webpack.Progress] 13% building 1/15 entries 659/879 dependencies 23/282 modules
+<s> [webpack.Progress] 17% building 2/15 entries 983/1045 dependencies 49/316 modules
+<s> [webpack.Progress] 17% building 2/15 entries 1600/1694 dependencies 175/446 modules
+<s> [webpack.Progress] 17% building import loader ./node_modules/raw-loader/dist/cjs.js
+<s> [webpack.Progress] 17% building 2/15 entries 1674/1706 dependencies 222/469 modules
+<s> [webpack.Progress] 17% building 2/15 entries 2093/2200 dependencies 312/538 modules
+<s> [webpack.Progress] 17% building 2/15 entries 3147/3200 dependencies 439/899 modules
+<s> [webpack.Progress] 17% building 2/15 entries 3900/3963 dependencies 683/1054 modules
+<s> [webpack.Progress] 22% building 2/15 entries 5000/5045 dependencies 1122/1288 modules
+<s> [webpack.Progress] 22% building 3/15 entries 5037/5067 dependencies 1166/1304 modules
+<s> [webpack.Progress] 24% building 4/15 entries 5037/5067 dependencies 1167/1304 modules
+<s> [webpack.Progress] 28% building 5/15 entries 5037/5067 dependencies 1168/1304 modules
+<s> [webpack.Progress] 32% building 6/15 entries 5037/5067 dependencies 1169/1304 modules
+<s> [webpack.Progress] 35% building 7/15 entries 5037/5067 dependencies 1170/1304 modules
+<s> [webpack.Progress] 39% building 8/15 entries 5037/5067 dependencies 1171/1304 modules
+<s> [webpack.Progress] 43% building 9/15 entries 5037/5067 dependencies 1172/1304 modules
+<s> [webpack.Progress] 46% building 10/15 entries 5037/5067 dependencies 1173/1304 modules
+<s> [webpack.Progress] 50% building 11/15 entries 5037/5067 dependencies 1174/1304 modules
+<s> [webpack.Progress] 54% building 12/15 entries 5535/5547 dependencies 1406/1436 modules
+<s> [webpack.Progress] 57% building 13/15 entries 5546/5549 dependencies 1424/1441 modules
+<s> [webpack.Progress] 61% building 14/15 entries 5546/5549 dependencies 1425/1441 modules
+<s> [webpack.Progress] 65% building 15/15 entries 5555/5555 dependencies 1444/1444 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids DeterministicModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.1245402a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.1245402a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.25dd5a37.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.25dd5a37.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 803.0c0e70a1.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 803.0c0e70a1.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 913.7a15e3ad.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 913.7a15e3ad.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 881.2df69708.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 881.2df69708.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 459.cdfa2fec.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 459.cdfa2fec.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 331.3f89aa71.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 331.3f89aa71.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 586.4db173d5.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 586.4db173d5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.b669188d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.b669188d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.5a85c51e.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.5a85c51e.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 913.22080dbf.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 913.22080dbf.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 881.89befe40.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 881.89befe40.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 459.a70161a1.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 459.a70161a1.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 803.8e93b2bc.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 803.8e93b2bc.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 331.24a386ac.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 331.24a386ac.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 586.14909c83.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 586.14909c83.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit fork-ts-checker-webpack-plugin
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins fork-ts-checker-webpack-plugin
+<s> [webpack.Progress] 99% done plugins fork-ts-checker-webpack-plugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (29 s)
+WARN System.import() is deprecated and will be removed soon. Use import() instead.
+WARN For more info visit https://webpack.js.org/guides/code-splitting/
+WARN System.import() is deprecated and will be removed soon. Use import() instead.
+WARN For more info visit https://webpack.js.org/guides/code-splitting/
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   586.14909c83.iframe.bundle.js (3.92 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (4.05 MiB)
+WARN       runtime~main.5a85c51e.iframe.bundle.js
+WARN       586.14909c83.iframe.bundle.js
+WARN       main.b669188d.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: /var/folders/3g/p5s737zs0ysc05j0d9pt88nh0000gn/T/chromatic--20816-PkGDTs1xYy91
